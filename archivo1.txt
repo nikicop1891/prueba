@@ -5,3 +5,5 @@ tengo un año y 3 meses en esta empresa. me parece buena empresa.
 mi jefe directo es Cesar Durand, y mi compañero es Rony Gonzales
 
 nuestro jefe de sistemas es Carlos Barrios y nuestro Gerente se Sistemas es Carlos Barrios
+
+esta linea es para eliminar y probar.
