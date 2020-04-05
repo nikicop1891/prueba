@@ -9,3 +9,5 @@ nuestro jefe de sistemas es Carlos Barrios y nuestro Gerente se Sistemas es Carl
 esta linea es para eliminar y probar.
 
 esta linea se esta editando desde la web
+
+esto se agrego despues de sincronizar. de pc a web
