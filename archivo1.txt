@@ -1,4 +1,4 @@
-hola, mi nombre es rafael  y mi apellido reyes honorio.
+﻿hola, mi nombre es rafael  y mi apellido reyes honorio.
 trabajo en Sodexo. como soporte tecnico. de lunes a viernes
 
 tengo un año y 3 meses en esta empresa. me parece buena empresa.
@@ -11,3 +11,7 @@ esta linea es para eliminar y probar.
 esta linea se esta editando desde la web
 
 esto se agrego despues de sincronizar. de pc a web
+
+rama 1
+
+esta rama es para hacer pruebas y ver que pasan.
