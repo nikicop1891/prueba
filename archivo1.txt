@@ -11,3 +11,13 @@ esta linea es para eliminar y probar.
 esta linea se esta editando desde la web
 
 esto se agrego despues de sincronizar. de pc a web
+
+rama 2
+
+esta se esta relianzando en la rama 2 haber que sucede
+
+--
+
+esta linea es adiciona
+esta linea tambn
+es una prueba
